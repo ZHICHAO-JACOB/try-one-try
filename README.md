@@ -1,13 +1,18 @@
 # ShuttleCar Control Instructions
 
-This README provides step-by-step instructions on how to setup and control the ShuttleCar. 
+This README provides step-by-step instructions on how to setup and control the ShuttleCar.
 
 ## Contents
 
+- [Remote Connection](#remote-connection)
 - [ShuttleCar Server](#shuttlecar-server)
 - [ShuttleCar Finger Controller](#shuttlecar-finger-controller)
 - [Laser Control](#laser-control)
 - [Motor Control](#motor-control)
+
+## Remote Connection
+
+Firstly, log in to the ToDesk software and remotely connect to the industrial computer on the shuttle using account number `859874814` and password `f7i6q5iq`.
 
 ## ShuttleCar Server
 
